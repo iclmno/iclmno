@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iclmno
 - 👀 I’m interested in learning how to code to get a career in programming
-- 🌱 I’m currently learning JavsScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on...nothing in mind...yet
 - 📫 How to reach me: ianclemeno@gmail.com
 
